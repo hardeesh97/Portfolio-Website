@@ -1,3 +1,4 @@
 ![Preview Img](files/Hardeesh_Preview.png)
 
-open index.html using your browser.
+1. Download full source code
+2. Open index.html using your browser.
